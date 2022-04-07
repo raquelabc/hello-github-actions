@@ -1,1 +1,1 @@
-d
+ENTRYPOINT ["/entrypoint.sh"]
